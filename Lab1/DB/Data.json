@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "topic": "Покупки",
+    "isCompleted": false,
+    "priority": 3
+  },
+  {
+    "id": "2",
+    "topic": "Задача на завтра",
+    "isCompleted": true,
+    "priority": 2
+  },
+  {
+    "id": "3",
+    "topic": "Созвониться с клиентом",
+    "isCompleted": false,
+    "priority": 1
+  }
+]
